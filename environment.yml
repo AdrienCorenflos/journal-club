@@ -5,6 +5,8 @@ dependencies:
   - python
   - numpy
   - matplotlib
-  - pandas
-  - bokeh
   - rise
+  - pip
+  - pip:
+      - tensorflow
+      - tensorflow_probability
