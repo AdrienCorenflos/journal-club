@@ -8,6 +8,8 @@ dependencies:
   - rise
   - pip
   - seaborn
+  - jupyter_contrib_nbextensions
+  - ffmpeg
   - pip:
       - tensorflow
       - tensorflow_probability
