@@ -1,5 +1,5 @@
 # Journal club notebooks    
-This is a collection (hopefully some day) of notebooks used for my presentations at Simo Särkkä's group journal club.
+This is a collection (hopefully some day) of notebooks used for my presentations at Simo Särkkä's group journal (pronounced /yərnl/ as in true English) club.
 They leverage the [RISE](https://rise.readthedocs.io/en/stable/index.html) framework to produce slick slides.
 
 This repository is licensed under the MIT License, so feel free to reuse to your heart's content.
