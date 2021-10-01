@@ -4,3 +4,5 @@ They leverage the [RISE](https://rise.readthedocs.io/en/stable/index.html) frame
 
 This repository is licensed under the MIT License, so feel free to reuse to your heart's content.
 Note that I use British (true) English spelling, so if you don't like it you can bugger off.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AdrienCorenflos/journal-club/HEAD)
